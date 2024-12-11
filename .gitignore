@@ -1,0 +1,91 @@
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific folders
+.vs/
+.vscode/
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# C++ specific
+ipch/
+*.opensdf
+*.sdf
+*.vcxproj.*
+*.vcxproj.filters
+*.VC.db
+*.VC.opendb
+
+# Visual Studio Code workspace
+*.code-workspace
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Office temp files
+~$*
+
+# Windows shortcuts
+*.lnk
+
+# DotNet specific
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+*.nuspec
+*.psmdcp
+.nuget/
+
+# Rider specific
+.idea/
+.idea_modules/
+*.iws
+.idea/misc.xml
+.idea/modules.xml
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries/
+.idea/httpRequests/
+.idea/workspace.xml
+*.sln.iml
+
+# JetBrains Rider
+.idea/
+.idea_modules/
+*.iws
+.idea/misc.xml
+.idea/modules.xml
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries/
+.idea/httpRequests/
+
+# Other
+*.tmp
+*.temp
