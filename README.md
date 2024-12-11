@@ -1,2 +1,2 @@
 # SkillTreeExample
-for showcase
+simple skill tree functions showcase
